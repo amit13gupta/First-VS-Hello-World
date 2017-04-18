@@ -12,6 +12,7 @@ namespace FirstGitHubProject
         {
             //test 
             Console.WriteLine("Hello World !!!");
+            Console.ReadLine();
         }
     }
 }
